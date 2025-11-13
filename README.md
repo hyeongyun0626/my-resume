@@ -48,8 +48,6 @@
 또한 유사한 시기의 가격·기상 패턴을 군집화하여 향후 가격 변동 예측에 활용할 수 있는 근거를 마련했습니다.
 `[PPT 링크 예정]`
 
----
-
 ### 2. OCR(광학 문자 인식) 분석 프로젝트
 OCR(Optical Character Recognition) 기술의 구조와 동작 원리를 정리한 프로젝트입니다.  
 텍스트 탐지(Text Detection)에서는 TextBoxes와 PixelLink 모델의 네트워크 구조와 손실 함수,  
@@ -57,8 +55,6 @@ NMS(Non-Max Suppression) 방식 등을 비교하여 분석했고,
 텍스트 인식(Text Recognition)에서는 CRNN 기반 구조와 최근 트렌드인 Transformer 모델을 함께 정리했습니다.  
 OCR 전체 파이프라인을 Detection → Recognition 순으로 구성해 기술 흐름을 이해할 수 있도록 발표 형태로 구성했습니다.
 `[PPT 링크 예정]`
-
----
 
 ### 3. KBO 데이터 탐색 및 시각화 프로젝트
 2024 KBO리그 타자 299명, 투수 290명의 데이터를 활용하여 정규시즌 기록을 분석한 프로젝트입니다.  
