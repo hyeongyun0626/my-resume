@@ -66,7 +66,7 @@ OCR 전체 파이프라인을 Detection → Recognition 순으로 구성해 기�
 팀별 득점·실점 비교, 타자 OPS/투수 ERA 분포, 득점과 홈런 관계 등 주요 지표를 시각화했습니다.  
 분석 결과, 포스트시즌 진출팀은 평균 득점이 높고 자책점은 낮으며, OPS와 같은 공격 지표에서도 차이를 보였습니다.  
 또한 홈런 수와 득점 간 관계를 분석해 공격 패턴에 따른 팀별 특징을 확인했습니다.
-`[./ppt/Exploratory Data Analysis and Visualization - 정형윤.pdf]`
+`[[./ppt/Exploratory Data Analysis and Visualization - 정형윤.pdf](https://github.com/hyeongyun0626/my-resume/blob/main/ppt/Exploratory%20Data%20Analysis%20and%20Visualization%20-%20%EC%A0%95%ED%98%95%EC%9C%A4.pdf)]`
 
 ---
 
